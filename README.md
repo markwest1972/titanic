@@ -10,6 +10,7 @@ Jupyter Notebook for JavaZone 2018 Presentation
 ## Dependancies
 
 This demo rquires a couple of extra depandancies: 
-
-```conda install -c anaconda graphviz```
-```conda install -c conda-forge pydotplus```
+```
+conda install -c anaconda graphviz
+conda install -c conda-forge pydotplus
+```
