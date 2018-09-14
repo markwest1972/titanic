@@ -1,4 +1,5 @@
 # titanic
+
 Jupyter Notebook for JavaZone 2018 Presentation
 
 ## Slides and Video
@@ -10,5 +11,5 @@ Jupyter Notebook for JavaZone 2018 Presentation
 
 This demo rquires a couple of extra depandancies: 
 
-conda install -c anaconda graphviz
-conda install -c conda-forge pydotplus 
+```conda install -c anaconda graphviz
+conda install -c conda-forge pydotplus```
