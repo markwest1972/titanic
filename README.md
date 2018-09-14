@@ -1,4 +1,4 @@
-# titanic
+# Titanic scikit-learn demo
 
 Jupyter Notebook for JavaZone 2018 Presentation
 
@@ -9,7 +9,7 @@ Jupyter Notebook for JavaZone 2018 Presentation
 
 ### Dependancies
 
-This demo rquires a couple of extra depandancies: 
+In addition to installing [Anaconda](https://www.anaconda.com/download) you should also install the following depandancies: 
 ```
 conda install -c anaconda graphviz
 conda install -c conda-forge pydotplus
