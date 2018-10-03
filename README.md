@@ -1,6 +1,6 @@
 # Titanic scikit-learn demo
 
-Jupyter Notebook for JavaZone 2018 Presentation. This Notebook shows examples of Feature Engineering and Hyperparameter tuning.
+Jupyter Notebook for Data Science Presentation. This Notebook shows examples of Feature Engineering and Hyperparameter tuning.
 
 ### Slides and Video
 
