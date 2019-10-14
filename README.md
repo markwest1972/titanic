@@ -2,6 +2,8 @@
 
 Jupyter Notebook for Data Science Presentation. This Notebook shows examples of Feature Engineering and Hyperparameter tuning.
 
+The code is tested with Python 3.
+
 ### Slides and Video
 
 1. https://www.slideshare.net/markawest/javazone-2018-a-practicalfish-introduction-to-data-science
