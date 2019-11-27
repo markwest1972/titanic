@@ -6,8 +6,8 @@ The code is tested with Python 3.
 
 ### Slides and Video
 
-1. https://www.slideshare.net/markawest/javazone-2018-a-practicalfish-introduction-to-data-science
-2. https://2018.javazone.no/program/006f91ea-0a7e-4ade-9253-65d906b1f326
+1. https://speakerdeck.com/istanbultechtalks/itt-2019-mark-west-a-practical-ish-introduction-to-data-science
+2. https://www.youtube.com/watch?v=6o3ElLYYEbk&t
 
 ### Dependencies
 
