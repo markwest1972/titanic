@@ -4,10 +4,10 @@ Jupyter Notebook for Data Science Presentation. This Notebook shows examples of 
 
 The code is tested with Python 3.
 
-### Slides and Video
+### Slides and Video (from Istanbul Tech Talks, April 2019)
 
 1. https://speakerdeck.com/istanbultechtalks/itt-2019-mark-west-a-practical-ish-introduction-to-data-science
-2. https://www.youtube.com/watch?v=6o3ElLYYEbk&t
+2. https://www.youtube.com/watch?v=6o3ElLYYEbk
 
 ### Dependencies
 
